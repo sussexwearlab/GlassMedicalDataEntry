@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<item-->
+        <!--android:id="@+id/new_test_item"-->
+        <!--android:title="@string/menu_new_test" />-->
+    <!--<item-->
+        <!--android:id="@+id/set_input_item"-->
+        <!--android:title="@string/menu_set_input">-->
+        <!--<menu>-->
+            <!--<item-->
+                <!--android:id="@+id/speech_input_menu_item"-->
+                <!--android:title="@string/menu_set_input_speech" />-->
+            <!--<item-->
+                <!--android:id="@+id/discrete_input_menu_item"-->
+                <!--android:title="@string/menu_set_input_discrete" />-->
+        <!--</menu>-->
+    <!--</item>-->
+</menu>
